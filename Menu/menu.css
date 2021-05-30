@@ -147,3 +147,14 @@
          height: 150px;
      }
  }
+@media  screen and (min-width: 992px) {
+     .section {
+         width: 95vw;
+     }
+ }
+ @media screen and (max-width: 500px) {
+    li a {
+        padding: 10px 5px;
+    }
+     
+ }
