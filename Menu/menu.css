@@ -154,7 +154,7 @@
  }
  @media screen and (max-width: 500px) {
     li a {
-        padding: 10px 5px;
+       display: block;
     }
      
  }
